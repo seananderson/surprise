@@ -24,6 +24,79 @@ knitr::opts_chunk$set(
 # library(surprise)
 ```
 
+[@holling1985]
+
+[@hilborn1987a]
+
+[@mangel1994]
+
+[@doak2008]
+
+[@taleb2007]
+
+[@sornette2002; @sornette2009]
+
+[@filbee-dexter2017]
+
+[@lindenmayer2018] (*Conservation conundrums and the challenges of managing unexplained declines of multiple species*)
+
+# Related fields
+
+- regime changes, bifurcations, and tipping points
+
+Catastrophic regime shifts [@scheffer2003]
+
+# Evidence for surprise and black-swan events for fish and fisheries
+
+[@batt2017]
+
+[@doak2008]
+
+[@fey2015]
+
+[@anderson2017c]
+
+[@young1994]
+
+# Challenges and solutions
+
+## Try to avoid surprise
+
+- experiments with trends *and* events? [@jentsch2007]
+
+## Embed surprise into models
+
+[@anderson2017c]
+
+[@anderson2019]
+
+[@chen1999]
+
+[@ward2007]
+
+[@gaines1993]
+
+[@batt2017]
+
+## Make the management system robust to surprise
+
+[@anderson2017b]
+
+## Detect and react quickly to surprise
+
+[@charles1998] *Living with uncertainty in fisheries: analytical methods, management priorities and the Canadian groundfishery experience*
+
+[@schneider1998] *Schneider, S.H., Turner, B.L. & Garriga, H.M. (1998). Imaginable surprise in global change science. J. Risk Res., 1, 165–185.* **to read in detail**
+
+[@wintle2010] *Allocating monitoring effort in the face of unknown unknowns*
+
+# Conclusion
+
+Somewhere: [@carpenter2012], [@burgman2012]
+
+# Acknowledgements
+
+\newpage
 
 # Figures
 
@@ -56,6 +129,7 @@ knitr::opts_chunk$set(
 1. Related concepts, citations, and examples?
 1. A table of scalable and non-scalable quantities for fish and fisheries?
 
-# Acknowledgements
+\newpage
 
 # References
+
