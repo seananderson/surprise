@@ -7,7 +7,7 @@ output:
     bookdown::html_document2:
       fig_caption: yes
 bibliography: references.bib
-csl: "../templates/cfjas.csl"
+csl: "../templates/cjfas.csl"
 abstract: |
   Text of abstract
 ---
