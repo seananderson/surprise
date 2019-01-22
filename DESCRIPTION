@@ -1,13 +1,16 @@
 Package: surprise
-Title: What the Package Does (One Line, Title Case)
+Title: A Perspectives Paper on Surprise and Black-Swan Events in Fisheries Science
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
+Authors@R:
+    person(given = "Sean",
+           family = "Anderson",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph)
+           email = "sean.anderson@dfo-mpo.gc.ca")
+Description: A perspectives paper on surprise and black-swan events in fisheries
+    science. A paper based on a Stevenson Lecture at the Canadian Conference for
+    Fisheries Research (CCFR).
 License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
+Suggests: bookdown

@@ -1,0 +1,35 @@
+---
+title: "Integrating black-swan events into fisheries science"
+author:
+  - Sean C. Anderson
+date: "`r format(Sys.time(), '%B %d %Y')`"
+output: 
+    bookdown::html_document2:
+      fig_caption: yes
+bibliography: references.bib
+csl: "../templates/cfjas.csl"
+abstract: |
+  Text of abstract
+---
+
+```{r, setup, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  echo = FALSE,
+  fig.path = "../figures/"
+)
+
+# library(surprise)
+```
+
+[@sornette2002]
+
+# Introduction
+
+# Acknowledgements
+
+# References 
+
+<div id="refs"></div>
