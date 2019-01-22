@@ -24,12 +24,29 @@ knitr::opts_chunk$set(
 # library(surprise)
 ```
 
-[@sornette2002]
 
-# Introduction
+# Figures
+
+1. Venn diagram of related concepts.
+1. Student-t distribution (with and without skew?), mixture distributions, and 
+   GEV distribution? Each could be associated with a timeseries.
+1. The Precautionary Approach?
+1. Example from synopsis report of automated reporting? (probably not)
+1. Could include some diversification figure republished.
+1. Press and pulse climate change extremes [@harris2018]?
+   Adapt to also have increased variance?
+1. A figure from @deroba2015?
+1. Predictability of event vs. potential impact figure from presentation?
+   
+
+# Tables
+
+1. Related concepts, citations, and examples?
+1. Examples of surprise and extreme events in fish and fisheries? Time, space,
+   reaction to management intervention, ...
+1. Table summarizing the main challenges and solutions?
+1. A table of scalable and non-scalable quantities for fish and fisheries?
 
 # Acknowledgements
 
 # References 
-
-<div id="refs"></div>
