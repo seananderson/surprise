@@ -3,7 +3,7 @@ title: "Integrating black-swan events into fisheries science"
 author:
   - Sean C. Anderson
 date: "`r format(Sys.time(), '%B %d %Y')`"
-output: 
+output:
     bookdown::html_document2:
       fig_caption: yes
 bibliography: references.bib
@@ -27,26 +27,35 @@ knitr::opts_chunk$set(
 
 # Figures
 
+## Probably
+
 1. Venn diagram of related concepts.
-1. Student-t distribution (with and without skew?), mixture distributions, and 
-   GEV distribution? Each could be associated with a timeseries.
-1. The Precautionary Approach?
-1. Example from synopsis report of automated reporting? (probably not)
-1. Could include some diversification figure republished.
 1. Press and pulse climate change extremes [@harris2018]?
    Adapt to also have increased variance?
-1. A figure from @deroba2015?
+1. Student-t distribution (with and without skew?), mixture distributions, and
+   GEV distribution? Each could be associated with a timeseries.
+
+## Other possibilities
+
 1. Predictability of event vs. potential impact figure from presentation?
-   
+1. The Precautionary Approach?
+1. Could include some diversification figure republished.
+1. A figure from @deroba2015?
+1. Example from synopsis report of automated reporting? (probably not)
 
 # Tables
 
-1. Related concepts, citations, and examples?
+## Probably
+
 1. Examples of surprise and extreme events in fish and fisheries? Time, space,
    reaction to management intervention, ...
 1. Table summarizing the main challenges and solutions?
+
+## Other possibilities
+
+1. Related concepts, citations, and examples?
 1. A table of scalable and non-scalable quantities for fish and fisheries?
 
 # Acknowledgements
 
-# References 
+# References
