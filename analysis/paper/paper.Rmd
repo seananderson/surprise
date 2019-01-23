@@ -24,29 +24,116 @@ knitr::opts_chunk$set(
 # library(surprise)
 ```
 
+<!--
+
 [@holling1985]
 
 [@hilborn1987a]
 
 [@mangel1994]
 
-[@doak2008]
-
 [@taleb2007]
 
 [@sornette2002; @sornette2009]
 
-[@filbee-dexter2017]
-
 [@lindenmayer2018] (*Conservation conundrums and the challenges of managing unexplained declines of multiple species*)
 
-# Related fields
+[@nunez2012]
 
-- regime changes, bifurcations, and tipping points
+-->
 
-Catastrophic regime shifts [@scheffer2003]
+<!-- Black swans are highly improbable events with major consequences that are
+often only considered predictable in retrospect. Such events define the world
+around us — from banking collapses to earthquakes. In fisheries, black-swan
+events could refer, for example, to abrupt declines in fish abundance or
+massive recruitment events. In this talk, I consider how we can integrate the
+concept into fisheries science. I explore why we should expect black-swan
+events and why climate change is likely to increase their occurrence. I compare
+similarities and differences between black swans and the related ecological
+concepts of regime shifts, tipping points, and mass-mortality events, and
+explore how the concept can be translated into statistical approaches through
+the use of extreme-value distributions, power laws, and non-linearity. Above
+all else, black swans necessitate a change in perspective; the goal is not
+usually to predict such events but to make models and management robust to
+them. I therefore suggest strategies for how we can introduce such robustness
+to fisheries science, including incorporating heavy-tailed distributions into
+process error and projections, integrating extreme events into closed-loop
+simulations, considering ensembles of stock assessment models with different
+structural assumptions, and automating the rapid visualization of fisheries
+data and model fits. -->
 
-# Evidence for surprise and black-swan events for fish and fisheries
+# Introduction
+
+Black swans are highly improbable events with major consequences that are often
+only considered predictable in retrospect. Such events define the world around
+us---from banking collapses to earthquakes. *some examples here, e.g.
+Fukushima, ...* A rich field of mathematics, statistics, and philosophy has
+developed around the concept of extremes, black-swan events, and even 'dragon
+kings' (extreme but predictable outliers) with applications mostly to finance
+(REF), natural disasters (REF), and ... (REF).
+
+*or*
+
+Uncertainty is a pervasive element of natural resource management. But there
+exist many types of uncertainty. Seemingly unlikely but highly impactful
+events---black swans or ecological surprises---are amongst the hardest to
+predict...
+
+In natural resource management, there are many iconic examples ...
+
+- Northern cod
+- Fraser River sockeye salmon
+- sea lamprey
+
+Black-swan events and surprise unite many related themes and ecology and
+natural resource management. @taleb2007 defines black-swan events as requiring
+a triplet: rarity, extreme impact, and retrospective predictability. ...
+
+- (catastrophic) regime shifts [@scheffer2003]
+- extreme climatic events [@smith2011c] [e.g. @smale2013]
+- mass mortality events [@fey2015]
+- ecological surprise [@doak2008] [@filbee-dexter2017]
+- bifurcations and tipping points
+- ...
+
+Figure: Venn diagram of related concepts
+
+<!-- could say something about black swans vs. surprise and how one captures
+attention, one focuses on the *event* but in a scary/negative way... the other
+focuses on the human element and I think emphasizes the opportunity to learn
+-->
+
+# The increasing relevance of surprise to fish and fisheries
+
+We should expect black-swan events and surprise to be an important feature of
+fish and fisheries. Marine ecosystems contain an enormous number of potentially
+nonlinear interactions.
+
+Our ability to observe and capture marine ecosystem and fisheries dynamics is
+limited---perhaps even more so than most other forms of natural resource
+management.
+
+The take-home message of the black swan concerns not just that black swans
+happen, but where they can happen. Scalable versus non-scalable events...
+
+- bakers vs. authors
+- salmon size versus salmon returns
+- population growth versus population mortality
+- but fish recruitment...
+
+<!-- or put this paragraph elsewhere -->
+
+<!-- ecological memory and autocorrelation -->
+
+Surprises are likely to become even more ubiquitous in the management of
+aquatic resources with climate change.
+
+*or*
+
+Surprise is a concept more relevant now than ever before because of climate
+change.
+
+# Evidence for black-swan events in aquatic systems
 
 [@batt2017]
 
@@ -56,7 +143,7 @@ Catastrophic regime shifts [@scheffer2003]
 
 [@anderson2017c]
 
-[@young1994]
+[@young1994]?
 
 # Challenges and solutions
 
